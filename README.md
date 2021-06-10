@@ -1,4 +1,4 @@
-# AGORIC TOOLS
+# BITCANNA TOOLS
 Tools for Bitcanna Network
 
 ## Terraform
